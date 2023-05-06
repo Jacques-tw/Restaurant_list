@@ -32,7 +32,7 @@ npm run dev
 4. 若看見此行訊息則代表順利運行：
 
 ```
-Listening on http://localhost:3000
+Express is running on http://localhost:3000
 ```
 
 5. 請打開瀏覽器進入到以下網址：`http://localhost:3000`
